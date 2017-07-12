@@ -1,0 +1,8 @@
+com/ascend/dao/AbstractDao.class
+com/ascend/configuration/HibernateConfiguration.class
+com/ascend/controller/UserController.class
+com/ascend/configuration/WebConfiguration.class
+com/ascend/dao/UserDAO.class
+com/ascend/Application.class
+com/ascend/service/UserService.class
+com/ascend/domain/User.class
